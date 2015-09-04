@@ -1,0 +1,28 @@
+{
+  "name": "intercom-hue",
+  "version": "1.0.0",
+  "description": "Intercom to Hue connector",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elyx0/intercom-hue.git"
+  },
+  "keywords": [
+    "intercom",
+    "hue"
+  ],
+  "author": "Elyx0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elyx0/intercom-hue/issues"
+  },
+  "homepage": "https://github.com/Elyx0/intercom-hue#readme",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "express": "^4.13.3",
+    "node-hue-api": "^1.1.2"
+  }
+}
